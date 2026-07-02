@@ -18,7 +18,7 @@ This is just a roadmap project so you can't use it, but if you want it you can j
 ## Link to roadmap projects:
 ***Main Project: [Roadmap Expense-Summary Project](https://roadmap.sh/projects/js-expense-summary)***
 
-***My Solution: [Idhm Solution](https://roadmap.sh/projects/js-task-list-utilities/solutions?u=6a41080523088a0480d07385)***
+***My Solution: [Idhm Solution](https://roadmap.sh/projects/js-expense-summary/solutions?u=6a41080523088a0480d07385)***
 
 ## Made by
 ***Github: [@Idhmoneys](https://github.com/Idhmoneys)***
